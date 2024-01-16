@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/jvinc/OneDrive/Desktop/Stuff/Coding Files/C++ Code/Sudoku/Cell.cpp" "CMakeFiles/sudoku.dir/Cell.cpp.obj" "gcc" "CMakeFiles/sudoku.dir/Cell.cpp.obj.d"
-  "C:/Users/jvinc/OneDrive/Desktop/Stuff/Coding Files/C++ Code/Sudoku/Sudoku.cpp" "CMakeFiles/sudoku.dir/Sudoku.cpp.obj" "gcc" "CMakeFiles/sudoku.dir/Sudoku.cpp.obj.d"
-  "C:/Users/jvinc/OneDrive/Desktop/Stuff/Coding Files/C++ Code/Sudoku/SudokuSolver.cpp" "CMakeFiles/sudoku.dir/SudokuSolver.cpp.obj" "gcc" "CMakeFiles/sudoku.dir/SudokuSolver.cpp.obj.d"
-  "C:/Users/jvinc/OneDrive/Desktop/Stuff/Coding Files/C++ Code/Sudoku/main.cpp" "CMakeFiles/sudoku.dir/main.cpp.obj" "gcc" "CMakeFiles/sudoku.dir/main.cpp.obj.d"
+  "C:/Users/jvinc/OneDrive/Desktop/Stuff/Coding Files/C++ Code/Sudoku/Sudoku/Cell.cpp" "CMakeFiles/sudoku.dir/Cell.cpp.obj" "gcc" "CMakeFiles/sudoku.dir/Cell.cpp.obj.d"
+  "C:/Users/jvinc/OneDrive/Desktop/Stuff/Coding Files/C++ Code/Sudoku/Sudoku/Sudoku.cpp" "CMakeFiles/sudoku.dir/Sudoku.cpp.obj" "gcc" "CMakeFiles/sudoku.dir/Sudoku.cpp.obj.d"
+  "C:/Users/jvinc/OneDrive/Desktop/Stuff/Coding Files/C++ Code/Sudoku/Sudoku/SudokuSolver.cpp" "CMakeFiles/sudoku.dir/SudokuSolver.cpp.obj" "gcc" "CMakeFiles/sudoku.dir/SudokuSolver.cpp.obj.d"
+  "C:/Users/jvinc/OneDrive/Desktop/Stuff/Coding Files/C++ Code/Sudoku/Sudoku/main.cpp" "CMakeFiles/sudoku.dir/main.cpp.obj" "gcc" "CMakeFiles/sudoku.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

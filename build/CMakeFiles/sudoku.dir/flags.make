@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = 
 
-CXX_FLAGS = -O3 -DNDEBUG -std=gnu++1z -Wall -Wextra -pedantic -g
+CXX_FLAGS = -g -std=gnu++1z -Wall -Wextra -pedantic -g
 
